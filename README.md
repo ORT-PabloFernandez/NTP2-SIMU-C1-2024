@@ -34,3 +34,11 @@ Si ya terminaste o ya es la hora de salida (pregunta cuando termina) asegurate d
 1. Realizar un commit a tu repo con un mensaje con tu nombre completo
 2. Realizar un push a tu repositorio
 3. Realizar un pull request a mi repositorio
+
+
+RUTAS:
+Home:
+http://localhost:3000
+
+Lista de peliculas:
+http://localhost:3000/movies
