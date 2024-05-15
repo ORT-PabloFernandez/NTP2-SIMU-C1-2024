@@ -1,16 +1,15 @@
-import "./users.css";
 import Pelicula from "./Pelicula";
 
-export default function UserList(props) {
+export default function PeliculasList(props) {
   return (
-    <ul className="users-list">
-      {props.Pelicula.map((user) => {
+    <ul>
+      {props.Peliculas.map((pelicula) => {
         return (
           <Pelicula
-            Id={user["Object Id"]}
-            UserName={user["Display name"]}
-            Title={user.Title}
-            Picture={user.Picture}
+            Id={pelicula["_id"]}
+            Poster={pelicula["poster"]}
+            Title={pelicula.title}
+            FullPlot={pelicula.fullplot}
           />
         );
       })}
