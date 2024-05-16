@@ -1,7 +1,25 @@
-import Image from "next/image";
+"use client";
+import { useState, useEffect } from "react";
+import MovieList from "./MovieList";
 
-export default function Home() {
+const URL =
+  "https://mflixbackend.azurewebsites.net/api/movies?pageSize=10&page=1";
+
+export default function MoviePage() {
+  const [movies, setMovies] = useState([]);
+
+  useEffect(() => {
+    fetch(URL)
+      .then((response) => response.json())
+      .then((data) => {
+        setMovies(data);
+      })
+      .catch((error) => console.log(error));
+  }, []);
+
   return (
-    <h3>hola mundo</h3>
+    <>
+      <MovieList Movies={movies} />
+    </>
   );
 }
