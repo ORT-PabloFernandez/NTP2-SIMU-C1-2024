@@ -1,9 +1,9 @@
 import Pelicula from "./Pelicula";
 
-export default function PeliculasList(props) {
+export default function PeliculaList(props) {
   return (
     <ul>
-      {props.Peliculas.map((pelicula) => {
+      {props.Peliculas.map(pelicula => {
         return (
           <Pelicula
             Id={pelicula["_id"]}

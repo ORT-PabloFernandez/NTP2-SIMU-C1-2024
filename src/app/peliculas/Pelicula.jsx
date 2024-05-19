@@ -2,14 +2,15 @@ import Link from "next/link";
 
 export default function Pelicula(props) {
   return (
-    <li className="user-item">
-      <div className="card user-item__content">
+    <li>
+      <div>
         <Link href={`/peliculas/${props.Id}`}>
-          <div className="user-item__image avatar">
-            <img src={props.Picture} alt="{props.UserName}" />
+          <div>
+            <img src={props.Poster} alt="{props.Title}" />
           </div>
-          <div className="user-item__info">
+          <div>
             <h2>{props.Title}</h2>
+            <h2>{props.FullPlot}</h2>
           </div>
         </Link>
       </div>
