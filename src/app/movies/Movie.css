@@ -1,0 +1,70 @@
+/* MovieList.css */
+
+.movie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    list-style-type: none;
+}
+
+.movie-item {
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .movie-item:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+.movie-poster {
+    width: 100%;
+    height: auto;
+}
+
+.movie-poster-image {
+    width: 100%;
+    height: auto;
+}
+
+.movie-details {
+    padding: 15px;
+}
+
+.movie-title {
+    font-size: 1.2em;
+    margin: 15px 0;
+}
+
+.movie-plot {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.movie-grid-title {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 2em;
+}
+
+@media (min-width: 768px) {
+    .movie-grid {
+        grid-template-columns: repeat(2, 1fr); 
+    }
+}
+
+@media (min-width: 1024px) {
+    .movie-grid {
+        grid-template-columns: repeat(3, 1fr); 
+    }
+}
+
+@media (min-width: 1280px) {
+    .movie-grid {
+        grid-template-columns: repeat(4, 1fr); /* 4 columnas para pantallas muy grandes */
+    }
+}

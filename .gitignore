@@ -34,3 +34,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.vs/NTP2-SIMU-C1-2024-V2/FileContentIndex
