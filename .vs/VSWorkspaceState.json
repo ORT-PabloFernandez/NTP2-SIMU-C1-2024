@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\movies"
   ],
-  "SelectedNode": "\\C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2",
   "PreviewInSolutionExplorer": false
 }
