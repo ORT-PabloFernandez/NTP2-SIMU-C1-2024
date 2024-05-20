@@ -1,0 +1,101 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  /* Container for the movie list */
+  .movies-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* List of movies */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Individual movie item */
+  li {
+    background: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+  }
+  
+  li img {
+    max-width: 100px;
+    margin-right: 20px;
+    border-radius: 4px;
+  }
+  
+  li h1 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* Button for pagination */
+  button {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Error message */
+  .error {
+    color: red;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  /* No more movies message */
+  .no-more-movies {
+    text-align: center;
+    margin: 20px 0;
+    color: #666;
+  }
+  
+  /* Movie detail page */
+  .movie-details {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-details img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .movie-details h1 {
+    font-size: 24px;
+    margin: 20px 0 10px;
+  }
+  
+  .movie-details p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
