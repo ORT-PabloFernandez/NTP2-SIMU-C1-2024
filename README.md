@@ -1,3 +1,8 @@
+## Comentarios
+
+El archivo styles.css fue proporcionado por chargpt, todo lo demas dentro de la carpeta peliculas fue hecho en base a los conocimientos adquiridos en la materia PNT2.
+-Nicolas Garcia Vior
+
 # PROGRAMACION DE NUEVAS TECNOLOGIAS 2
 
 ## Instrucciones de resolución de examen
