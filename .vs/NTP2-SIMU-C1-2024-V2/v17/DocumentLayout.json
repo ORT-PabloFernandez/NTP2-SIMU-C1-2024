@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\Movie.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\movies\\Movie.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\sales\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\movies\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\Sale.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\sales\\Sale.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\Movie.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\movies\\Movie.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\SaleList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\sales\\SaleList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\[id]\\page.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\movies\\[id]\\page.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\[id]\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\sales\\[id]\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\ItemList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\items\\ItemList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\items\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\Item.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\items\\Item.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +58,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Movie.css",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\Movie.css",
-              "RelativeDocumentMoniker": "src\\app\\movies\\Movie.css",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\Movie.css",
-              "RelativeToolTip": "src\\app\\movies\\Movie.css",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAQwH0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T18:36:46.681Z",
+              "DocumentIndex": 4,
+              "Title": "ItemList.jsx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\ItemList.jsx",
+              "RelativeDocumentMoniker": "src\\app\\items\\ItemList.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\ItemList.jsx",
+              "RelativeToolTip": "src\\app\\items\\ItemList.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-21T00:30:49.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.jsx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\Item.jsx",
+              "RelativeDocumentMoniker": "src\\app\\items\\Item.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\Item.jsx",
+              "RelativeToolTip": "src\\app\\items\\Item.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-21T00:28:40.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page.jsx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\page.jsx",
+              "RelativeDocumentMoniker": "src\\app\\items\\page.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\items\\page.jsx",
+              "RelativeToolTip": "src\\app\\items\\page.jsx",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-21T00:13:23.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "page.jsx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\[id]\\page.jsx",
-              "RelativeDocumentMoniker": "src\\app\\movies\\[id]\\page.jsx",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\[id]\\page.jsx",
-              "RelativeToolTip": "src\\app\\movies\\[id]\\page.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\[id]\\page.jsx",
+              "RelativeDocumentMoniker": "src\\app\\sales\\[id]\\page.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\[id]\\page.jsx",
+              "RelativeToolTip": "src\\app\\sales\\[id]\\page.jsx",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-20T16:56:09.416Z",
+              "WhenOpened": "2024-05-20T23:53:43.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "layout.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\layout.js",
+              "RelativeDocumentMoniker": "src\\app\\layout.js",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\layout.js",
+              "RelativeToolTip": "src\\app\\layout.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-20T23:21:47.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "page.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\page.js",
+              "RelativeDocumentMoniker": "src\\app\\page.js",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\page.js",
+              "RelativeToolTip": "src\\app\\page.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-20T23:15:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleList.jsx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\SaleList.jsx",
+              "RelativeDocumentMoniker": "src\\app\\sales\\SaleList.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\SaleList.jsx",
+              "RelativeToolTip": "src\\app\\sales\\SaleList.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-20T22:57:34.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "page.jsx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\page.jsx",
-              "RelativeDocumentMoniker": "src\\app\\movies\\page.jsx",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\page.jsx",
-              "RelativeToolTip": "src\\app\\movies\\page.jsx",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAAA0AAABjAAAA",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\page.jsx",
+              "RelativeDocumentMoniker": "src\\app\\sales\\page.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\page.jsx",
+              "RelativeToolTip": "src\\app\\sales\\page.jsx",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-05-18T23:34:27.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Movie.jsx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\Movie.jsx",
-              "RelativeDocumentMoniker": "src\\app\\movies\\Movie.jsx",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\movies\\Movie.jsx",
-              "RelativeToolTip": "src\\app\\movies\\Movie.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "DocumentIndex": 1,
+              "Title": "Sale.jsx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\Sale.jsx",
+              "RelativeDocumentMoniker": "src\\app\\sales\\Sale.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\NTP2-SIMU-C1-2024-V2\\src\\app\\sales\\Sale.jsx",
+              "RelativeToolTip": "src\\app\\sales\\Sale.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-05-20T18:03:00.192Z",
               "EditorCaption": ""

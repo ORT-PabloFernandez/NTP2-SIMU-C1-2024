@@ -3,7 +3,8 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\movies"
+    "\\src\\app\\sales"
   ],
+  "SelectedNode": "\\src\\app\\sales\\SaleList.jsx",
   "PreviewInSolutionExplorer": false
 }
