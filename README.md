@@ -20,10 +20,9 @@ Luego de abrir el correo encuentras un mail de tu Líder Técnico con tu primera
 
 > ### TUS TAREAS SON LAS SIGUIENTES POR ORDEN DE PRIORIDAD
 >
-> 1. Necesitamos conectar el frontend con el backend.
-> 2. Necesitamos un componente de pagina, uno de peliculas y un componente de pelicula.
-> 3. El componente de pelicula debe mostrar la pelicula con su respectivo **poster**, con el **title** debajo y la descripción **fullplot**
-> 4. Si el tiempo te lo permite implementa la paginación en la pagina de películas.
+> 1. Necesitamos un componente de pagina, uno de peliculas y un componente de pelicula. Mostrar un listado de 100 peliculas en formato grilla/lista.
+> 2. El componente de pelicula debe mostrar la pelicula con su respectivo **poster**, con el **title** debajo y la descripción **fullplot**
+> 3. Pagina Detalle de pelicula: Al hacer click en una pelicula mostrar los premios y los datos de **tomatoes   
 
 > Desde ya muchas gracias por la colaboración! 😉 como te comente en la entrevista soy muy detallista en la prolijidad del codigo y la performance cada detalle cuenta, sin embargo si no estas seguro, es mejor que lo resuelvas como puedas y me dejes notas en el readme.md del repo, para que yo pueda probar.
 
