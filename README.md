@@ -1,5 +1,10 @@
 # PROGRAMACION DE NUEVAS TECNOLOGIAS 2
 
+## Simulacro Matheus Fellipe Reguta
+Observaciones: hice la resolución del examen en /movies
+No hice ninguna hoja de estilo, me concentré en resolver las tareas explícitas
+No me quedó claro si había que existir una opción para cambiar de pagina (cargar 100 pelis de pagina 2,3,4 etc.) Hice solo de la primera pagina, pero ya armado un useState para implementar el cambio de pagina
+
 ## Instrucciones de resolución de examen
 
 Es tu primer día en [tecnoshare.com](http://tecnoshare.com) luego de un intenso entrenamiento de 10 semanas por fin tenes la oportunidad de mostrar lo que aprendiste, y tu potencial como desarrollador react.
