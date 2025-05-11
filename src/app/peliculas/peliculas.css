@@ -1,0 +1,114 @@
+.card {
+    position: relative;
+    margin: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    padding: 1rem;
+    overflow: hidden;
+    background: white;
+  }
+  
+  .user-item {
+    margin: 1rem;
+    width: calc(45% - 2rem);
+    min-width: 17.5rem;
+  }
+  
+  .user-item a {
+    display: flex;
+    flex-direction: column; /* Apilar elementos verticalmente */
+    align-items: flex-start; /* Alinea los elementos a la izquierda */
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    padding: 1rem;
+    color: white;
+    background: #292929;
+  }
+  
+  .user-item a:hover,
+  .user-item a:active {
+    background: #ffd900;
+  }
+  
+  .user-item__content {
+    padding: 0;
+  }
+  
+  .pelicula-item__image {
+    width: 100%; /* El contenedor ocupa todo el ancho disponible */
+    height: auto; /* La altura se ajusta automáticamente */
+    max-height: 400px; /* Establece un tamaño máximo para la altura */
+    overflow: hidden; /* Asegura que no haya desbordamientos de la imagen */
+    margin-bottom: 10px; /* Espacio debajo del póster */
+    display: flex;
+    justify-content: center; /* Centra la imagen */
+  }
+  
+  .pelicula-item__image img {
+    width: auto; /* La imagen se ajusta automáticamente al ancho */
+    height: 100%; /* La imagen ocupa el 100% de la altura del contenedor */
+    object-fit: contain; /* Asegura que la imagen se ajuste sin recorte y mantenga su proporción */
+  }
+  
+  .user-item__info h2 {
+    font-size: 1.5rem;
+    margin: 0 0 0.5rem 0;
+    font-weight: normal;
+    color: #ffd900;
+  }
+  
+  .user-item__info p {
+    margin: 0;
+    color: #fff;
+  }
+
+  .pelicula-details {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pelicula-details h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .pelicula-details h3 {
+    font-size: 1.5rem;
+    color: #ffd900;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .pelicula-details p {
+    font-size: 1rem;
+    color: #555;
+    margin: 0.5rem 0;
+  }
+  
+  .pelicula-details .info-container {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 2px solid #f1f1f1;
+  }
+  
+  .pelicula-details .pelicula-poster {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .pelicula-details .pelicula-poster img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  
