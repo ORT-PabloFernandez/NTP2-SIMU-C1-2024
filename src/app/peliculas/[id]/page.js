@@ -11,16 +11,83 @@ export default async function DetallePelicula({ params }) {
   const pelicula = await res.json();
 
   return (
-    <div>
-      <h1>{pelicula.title}</h1>
-      <p>{pelicula.fullplot}</p>
-      <div>
-        <h2>Premios</h2>
-        <p>{pelicula.awards?.text || "Sin información"}</p>
-      </div>
-      <div>
-        <h2>Tomatoes</h2>
-        <pre>{JSON.stringify(pelicula.tomatoes, null, 2)}</pre>
+    <div className="min-h-screen bg-gray-700 py-10 px-4">
+      <div className="max-w-4xl mx-auto bg-white shadow-xl rounded-xl overflow-hidden">
+        <div className="relative w-full h-[400px] overflow-hidden">
+          {/* Imagen de fondo con blur */}
+          <img
+            src={pelicula.poster}
+            alt={`Blur de ${pelicula.title}`}
+            className="absolute top-0 left-0 w-full h-full object-cover blur-lg scale-110"
+          />
+
+          {/* Capa oscura para contraste */}
+          <div className="absolute inset-0 bg-black/30" />
+
+          {/* Contenido sobre la imagen */}
+          <div className="relative z-10 h-full flex justify-between items-end px-10 pb-5">
+            {/* Título a la izquierda */}
+            <h1 className="text-white text-5xl font-bold font-calsans drop-shadow-xl max-w-[60%]">
+              {pelicula.title}
+            </h1>
+
+            {/* Imagen pequeña a la derecha */}
+            <img
+              src={pelicula.poster}
+              alt={pelicula.title}
+              className="w-60 rounded-lg shadow-lg"
+            />
+          </div>
+        </div>
+
+        <div className="p-6">
+          <p className="text-gray-700 mb-6">{pelicula.fullplot}</p>
+
+          <div className="mb-6">
+            <h2 className="text-2xl font-semibold text-gray-800 mb-2">
+              Premios
+            </h2>
+            <p className="text-gray-600">
+              {pelicula.awards?.text || "Sin información"}
+            </p>
+          </div>
+
+          <div>
+            <h2 className="text-2xl font-semibold text-gray-800 mb-2">
+              Tomatoes
+            </h2>
+            <div className="bg-gray-100 p-4 rounded">
+              <p>
+                <span className="font-semibold">Viewer Rating:</span>{" "}
+                {pelicula.tomatoes?.viewer?.rating ?? "N/A"} ⭐
+              </p>
+              <p>
+                <span className="font-semibold">Viewer Reviews:</span>{" "}
+                {pelicula.tomatoes?.viewer?.numReviews ?? "N/A"}
+              </p>
+              <p>
+                <span className="font-semibold">Critic Rating:</span>{" "}
+                {pelicula.tomatoes?.critic?.rating ?? "N/A"} ⭐
+              </p>
+              <p>
+                <span className="font-semibold">Critic Reviews:</span>{" "}
+                {pelicula.tomatoes?.critic?.numReviews ?? "N/A"}
+              </p>
+              <p>
+                <span className="font-semibold">Fresh:</span>{" "}
+                {pelicula.tomatoes?.fresh ?? "N/A"}
+              </p>
+              <p>
+                <span className="font-semibold">Rotten:</span>{" "}
+                {pelicula.tomatoes?.rotten ?? "N/A"}
+              </p>
+              <p>
+                <span className="font-semibold">Production:</span>{" "}
+                {pelicula.tomatoes?.production ?? "N/A"}
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );

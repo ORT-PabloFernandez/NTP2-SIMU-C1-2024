@@ -11,7 +11,7 @@ export default function ListadoPeliculas() {
 
   useEffect(() => {
     fetch(
-      "https://mflixbackend.azurewebsites.net/api/movies?pageSize=1&page=1"
+      "https://mflixbackend.azurewebsites.net/api/movies?pageSize=100&page=12"
     )
       .then((res) => res.json())
       .then((data) => {
@@ -28,7 +28,7 @@ export default function ListadoPeliculas() {
   if (loading) return <p>Cargando películas...</p>;
 
   return (
-    <div className="bg-gray-700 min-h-screen px-4 py-8">
+    <div className="bg-gray-900 min-h-screen px-4 py-8">
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 ml-20 mr-20">
         {peliculas.map((peli) => (
           <Pelicula key={peli._id} pelicula={peli} />
