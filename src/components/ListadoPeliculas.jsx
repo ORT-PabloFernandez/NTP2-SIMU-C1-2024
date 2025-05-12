@@ -11,12 +11,13 @@ export default function ListadoPeliculas() {
 
   useEffect(() => {
     fetch(
-      "https://mflixbackend.azurewebsites.net/api/movies?pageSize=100&page=1"
+      "https://mflixbackend.azurewebsites.net/api/movies?pageSize=1&page=1"
     )
       .then((res) => res.json())
       .then((data) => {
         setPeliculas(data);
         setLoading(false);
+        console.log("Película:", data);
       })
       .catch((error) => {
         console.error("Error al traer películas:", error);
