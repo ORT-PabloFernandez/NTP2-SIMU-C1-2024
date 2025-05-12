@@ -14,24 +14,16 @@ export default async function DetallePelicula({ params }) {
     <div className="min-h-screen bg-gray-700 py-10 px-4">
       <div className="max-w-4xl mx-auto bg-white shadow-xl rounded-xl overflow-hidden">
         <div className="relative w-full h-[400px] overflow-hidden">
-          {/* Imagen de fondo con blur */}
           <img
             src={pelicula.poster}
             alt={`Blur de ${pelicula.title}`}
             className="absolute top-0 left-0 w-full h-full object-cover blur-lg scale-110"
           />
-
-          {/* Capa oscura para contraste */}
           <div className="absolute inset-0 bg-black/30" />
-
-          {/* Contenido sobre la imagen */}
           <div className="relative z-10 h-full flex justify-between items-end px-10 pb-5">
-            {/* Título a la izquierda */}
             <h1 className="text-white text-5xl font-bold font-calsans drop-shadow-xl max-w-[60%]">
               {pelicula.title}
             </h1>
-
-            {/* Imagen pequeña a la derecha */}
             <img
               src={pelicula.poster}
               alt={pelicula.title}
